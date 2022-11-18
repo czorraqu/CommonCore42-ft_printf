@@ -1,1 +1,1 @@
-# CommonCore42-ft_printf
+ft_printf
